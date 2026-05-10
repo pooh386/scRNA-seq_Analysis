@@ -1,5 +1,5 @@
-<img width="824" height="612" alt="스크린샷 2026-05-10 223651" src="https://github.com/user-attachments/assets/22df7dad-a72a-45ca-997b-6e8a4021160b" />**scRNA-seq Analysis Pipeline: From Plant Science to Human Omics
-**
+**scRNA-seq Analysis Pipeline: From Plant Science to Human Omics**
+
 **1. Project Motivation**
 본 프로젝트는 식물생명공학 전공 배경의 연구자가 인체 오믹스(Human Omics) 데이터 분석으로 도메인을 확장하는 과정을 실증하기 위해 기획됨.
 
